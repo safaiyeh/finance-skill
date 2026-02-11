@@ -66,6 +66,7 @@ echo '[{"date":"2026-01-15","merchant":"Starbucks","amount":-5.50,"category":"fo
 ## Requirements
 
 - OpenClaw
+- `jq` (`apt install jq` / `brew install jq`)
 - Python 3 with `pypdf` (`pip3 install pypdf`)
 
 ## Roadmap
